@@ -13,7 +13,7 @@ A community-driven memecoin built on BNB Chain with sustainable tokenomics, hold
 👉 [Tokenomics](tokenomics)
 
  🗺 Roadmap
-👉 [Roadmap](roadmap)
+👉 [Roadmap](Roadmap)
 
 
 🌍 Key Highlights

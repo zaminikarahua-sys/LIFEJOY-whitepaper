@@ -4,7 +4,7 @@ $IJOY – Official Whitepaper
 
 Welcome to the official repository for $IJOY.
 
-A community-driven memecoin built on BNB Chain with sustainable tokenomics, holder rewards, and long-term growth strategy.
+A community-driven memecoin built on BNB Chain & X Layer (OKX Chain) with sustainable tokenomics, holder rewards, and long-term growth strategy.
 
 📜 Whitepaper
 👉 [Whitepaper](Whitepaper)

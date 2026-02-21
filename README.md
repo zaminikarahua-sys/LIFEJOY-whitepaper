@@ -18,7 +18,7 @@ A community-driven memecoin built on BNB Chain with sustainable tokenomics, hold
 
 🌍 Key Highlights
 
-- Built on BNB Chain
+- Built on BNB Chain & X Layer (OKX Chain)
 - Total Supply: 1,000,000,000
 - Deflationary mechanism (10% burn allocation)
 - Holder reflections (30% of tax)
